@@ -2,7 +2,7 @@
  ** File:
  **   $Id: sc_rts.h 1.2 2015/11/20 12:03:20EST sstrege Exp  $
  **
- **  Copyright © 2007-2014 United States Government as represented by the 
+ **  Copyright ï¿½ 2007-2014 United States Government as represented by the 
  **  Administrator of the National Aeronautics and Space Administration. 
  **  All Other Rights Reserved.  
  **
@@ -43,7 +43,7 @@
 #define RTS_ID_AUTO_POWER_ON            1    /**< \brief Startup auto-exec after power-on reset */
 #define RTS_ID_AUTO_PROCESSOR           2    /**< \brief Startup auto-exec after processor reset */
 
-#define RTS_ID_Spare3                   3    
+#define RTS_ID_VEL_TOO_HIGH             3    
 #define RTS_ID_Spare4                   4    
 #define RTS_ID_Spare5                   5                     
 #define RTS_ID_Spare6                   6
