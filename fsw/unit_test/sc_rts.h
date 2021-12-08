@@ -44,7 +44,7 @@
 #define RTS_ID_AUTO_POWER_ON            1    /**< \brief Startup auto-exec after power-on reset */
 #define RTS_ID_AUTO_PROCESSOR           2    /**< \brief Startup auto-exec after processor reset */
 
-#define RTS_ID_VEL_TOO_HIGH             3    
+#define RTS_ID_MOTOR_VEL_TOO_HIGH       3    
 #define RTS_ID_Spare4                   4    
 #define RTS_ID_Spare5                   5                     
 #define RTS_ID_Spare6                   6
