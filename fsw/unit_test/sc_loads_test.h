@@ -2,8 +2,9 @@
 /*
  * Filename: sc_loads_test.h
  *
- * Purpose: This file contains the function prototypes for the unit test cases for sc_loads.c
- * 
+ * Purpose: This file contains the function prototypes for the unit test cases
+ * for sc_loads.c
+ *
  */
 
 /*
