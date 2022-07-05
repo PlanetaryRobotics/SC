@@ -2,8 +2,9 @@
 /*
  * Filename: sc_app_test.h
  *
- * Purpose: This file contains the function prototypes for the unit test cases for sc_state.c
- * 
+ * Purpose: This file contains the function prototypes for the unit test cases
+ * for sc_state.c
+ *
  */
 
 /*
